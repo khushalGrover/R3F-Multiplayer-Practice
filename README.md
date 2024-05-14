@@ -17,3 +17,9 @@ yarn dev --host
 ```
 _It must be connected to the same network_
 
+
+To Deploy on Gh-pages
+```
+yarn deploy
+```
+
